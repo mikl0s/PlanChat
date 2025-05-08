@@ -3,6 +3,10 @@
   "displayName": "PlanChat",
   "description": "Project planning for Vibe Coding via a conversational interface.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikl0s/PlanChat.git"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
